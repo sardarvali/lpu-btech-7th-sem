@@ -6,3 +6,4 @@
 ## [GOOGLE TERRAFORM DOCS](https://cloud.google.com/docs/terraform/iac-overview)
 ## learning path
 - [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)
+- [DevSecOps Learning Path](https://www.cloudskillsboost.google/paths/76)  is more detailed for kubernetes(gke)
