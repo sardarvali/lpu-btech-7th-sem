@@ -11,3 +11,4 @@
 - [Orchestrating the Cloud with Kubernetes](https://www.cloudskillsboost.google/focuses/557?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52496254)
 - [Setting up a Private Kubernetes Cluster](https://www.cloudskillsboost.google/focuses/867?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52496254)
 - [Understanding and Combining GKE Autoscaling Strategies](https://www.cloudskillsboost.google/focuses/15636?catalog_rank=%7B%22rank%22%3A37%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52496675)
+- [Configuring Persistent Storage for Google Kubernetes Engine](https://www.cloudskillsboost.google/paths/76/course_templates/34/labs/559729)
