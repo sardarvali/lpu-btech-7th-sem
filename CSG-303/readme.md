@@ -1,3 +1,7 @@
+documentation links 
+- Using RBAC Authorization
+- [workload identity](https://cloud.google.com/kubernetes-engine/docs/concepts/workload-identity)
+
 # labs  
 - [Google Kubernetes Engine: Qwik Start](https://www.cloudskillsboost.google/focuses/878?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52496169)
 - [Deploying GKE Autopilot Clusters](https://www.cloudskillsboost.google/paths/11/course_templates/2/labs/562180)
