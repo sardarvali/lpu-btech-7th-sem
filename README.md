@@ -1,6 +1,6 @@
 
 ## diagrams and notes  
-- https://excalidraw.com/#json=TlY42rjNwJpGXXSrNt2IV,L-Z0_M7S4QVZuTazS0w0Ew
+- https://excalidraw.com/#json=5aAWvcPKBs9mdfrJUlcoU,F35CymWGm4xxzJbQIgOe0w
 - https://etherpad.opendev.org/p/r.76d588f28494ac7efba4476919e21dfa
 ## [Kubernetes docs](https://kubernetes.io/docs/) 
 ## [GOOGLE TERRAFORM DOCS](https://cloud.google.com/docs/terraform/iac-overview)
